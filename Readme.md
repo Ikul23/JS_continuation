@@ -4,4 +4,4 @@
 
 2. Реализация Задачи: <["HT2"](https://github.com/Ikul23/JS_continuation/tree/main/HT2)>;
 
-3. Реализация Задачи: <["HT3"](https://github.com/Ikul23/JS_continuation/tree/main/HT3)>;
+3. Реализация Задачи: <["Final_HT"](https://github.com/Ikul23/JS_continuation/tree/main/Final_HT)>;
